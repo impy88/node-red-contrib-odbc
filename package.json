@@ -1,10 +1,10 @@
 {
   "name": "node-red-contrib-odbc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Node for node-red to unixODBC and its supported drivers. (MS SQL, PostgreSQL, ...)",
   "main": "odbc.js",
   "dependencies": {
-    "odbc": ">=0.6.11",
+    "odbc": "amcintyre99/node-odbc",
     "mustache": "latest"
   },
   "node-red": {
